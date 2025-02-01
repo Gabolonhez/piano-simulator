@@ -1,5 +1,7 @@
 # Piano simulator
 
+![image](https://github.com/user-attachments/assets/1b29bcca-7fe5-403c-b066-9c609e7eb527)
+
 ## 📑 Descrição
 
 Simulador de piano
