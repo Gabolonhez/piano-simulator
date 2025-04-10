@@ -4,7 +4,7 @@
 
 ## 📑 Descrição
 
-Simulador de piano,
+Simulador de piano.
 
 ## 🎯 Funcionalidades
 
