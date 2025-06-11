@@ -17,3 +17,5 @@ Simulador de piano.
 - `JavaScript`
 
 ## 🌐 Link do deploy
+
+https://gabolonhez.github.io/piano-simulator/
